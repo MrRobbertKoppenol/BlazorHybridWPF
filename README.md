@@ -1,4 +1,4 @@
-# BlazorHybridWPF
+# Blazor hybrid in WPF
 Since Blazor hybrid in MAUI is not working smoothly... Uses Mudblazor for cleaner UI.
 
 ![image](https://github.com/MrRobbertKoppenol/BlazorHybridWPF/assets/87547437/e117eef8-6d76-4489-a0cc-9c1e063254d2)
